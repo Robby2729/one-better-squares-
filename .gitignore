@@ -1,0 +1,10 @@
+node_modules/
+backend/node_modules/
+.env
+logs/
+backend/logs/
+*.csv
+contacts.json
+props.json
+.DS_Store
+data/
